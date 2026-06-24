@@ -9,3 +9,4 @@ shapely
 osmnx
 networkx
 requests
+scikit-learn
